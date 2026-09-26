@@ -1,8 +1,8 @@
 //importacion de reat
-import React from "next/image";
+import React from "react";
 
 //declaracion de la funcion
-export const PokemonPage = () => {
+export default function PokemonPage () {
 
     //retorno de la estructura jsx
   return (
